@@ -1,0 +1,84 @@
+ {
+  "services": [
+    {
+      "name": "Service 1: Search Engine Optimization (SEO)",
+      "price_plan": [
+        {
+          "plan_name": "Basic SEO",
+          "price": "$199/month",
+          "description": "Essential SEO optimization for small businesses."
+        },
+        {
+          "plan_name": "Advanced SEO",
+          "price": "$399/month",
+          "description": "Comprehensive SEO strategy for medium-sized businesses."
+        },
+        {
+          "plan_name": "Enterprise SEO",
+          "price": "$799/month",
+          "description": "Tailored SEO solutions for large enterprises."
+        }
+      ]
+    },
+    {
+      "name": "Service 2: Social Media Marketing",
+      "price_plan": [
+        {
+          "plan_name": "Starter Social",
+          "price": "$149/month",
+          "description": "Beginner-level social media management."
+        },
+        {
+          "plan_name": "Pro Social",
+          "price": "$299/month",
+          "description": "Professional social media strategy and content creation."
+        },
+        {
+          "plan_name": "Premium Social",
+          "price": "$599/month",
+          "description": "Advanced social media marketing for maximum engagement."
+        }
+      ]
+    },
+    {
+      "name": "Service 3: Pay-Per-Click Advertising (PPC)",
+      "price_plan": [
+        {
+          "plan_name": "PPC Starter",
+          "price": "$199/month",
+          "description": "Basic PPC advertising to kickstart your campaigns."
+        },
+        {
+          "plan_name": "PPC Pro",
+          "price": "$399/month",
+          "description": "Professional PPC management and optimization."
+        },
+        {
+          "plan_name": "PPC Elite",
+          "price": "$799/month",
+          "description": "Elite PPC services for maximum ROI."
+        }
+      ]
+    },
+    {
+      "name": "Service 4: Content Marketing",
+      "price_plan": [
+        {
+          "plan_name": "Content Essentials",
+          "price": "$149/month",
+          "description": "Essential content creation and marketing services."
+        },
+        {
+          "plan_name": "Content Plus",
+          "price": "$299/month",
+          "description": "Comprehensive content strategy and production."
+        },
+        {
+          "plan_name": "Content Pro",
+          "price": "$599/month",
+          "description": "Professional content marketing for brand growth."
+        }
+      ]
+    }
+  ]
+}

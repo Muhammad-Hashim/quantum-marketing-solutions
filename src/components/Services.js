@@ -45,7 +45,7 @@ export default function Services() {
           </div>
           <div className="w-[700px] p-10  flex ">
             <div className="mt-28 w-[400px]">
-              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+              <h1 className="text-4xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
                 {item.name}
               </h1>
 

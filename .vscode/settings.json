@@ -2,6 +2,7 @@
     "editor.acceptSuggestionOnEnter": "on",
     "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: developer]",
     "conventionalCommits.scopes": [
-        "Header"
+        "Header",
+        "Prices"
     ]
 }
