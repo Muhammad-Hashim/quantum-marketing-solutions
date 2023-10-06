@@ -31,7 +31,7 @@ const data = {
 
 export default function Services() {
   return (
-    <div className="bg-white ">
+    <div className="mt-20 bg-[#FAF0F9] ">
       {data.services.map((item, index) => (
         <div
           className="max-w-[1200px] m-auto  h-[600px] flex mb-4  justify-between bg-[#E7E5E4]  "
@@ -45,7 +45,7 @@ export default function Services() {
           </div>
           <div className="w-[700px] p-10  flex ">
             <div className="mt-28 w-[400px]">
-              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+              <h1 className="text-4xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
                 {item.name}
               </h1>
 
